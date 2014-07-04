@@ -200,6 +200,15 @@
 	}
 	
 
+	section.main {
+		position: relative;
+	}
+	 
+	section.coderwall {
+		position: relative;
+		top: 10px;
+		left: 0px;
+	}
 
 	section,
 	article
